@@ -14,6 +14,7 @@
 
 ## Details
 after clicking any of the exercise the details information page opened
+
 ![exercise details](https://user-images.githubusercontent.com/96805944/181621906-881f9e9b-b133-4be6-a135-3bce5c1df6cb.png)
 
 
